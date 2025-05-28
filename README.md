@@ -1,2 +1,732 @@
-# home
-OTD Website
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>On Tap Distributors</title>
+<link rel="icon" href="images/OTD Icon.png" type="image/png" sizes="16x16">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="OTD Landing Page Template">
+<meta name="keywords" content="iLand HTML Template, iLand Landing Page, Landing Page Template">
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
+<link rel="stylesheet" href="css/animate.css">
+<!-- Resource style -->
+<link rel="stylesheet" href="css/owl.carousel.css">
+<link rel="stylesheet" href="css/owl.theme.css">
+<link rel="stylesheet" href="css/ionicons.min.css">
+<!-- Resource style -->
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<body>
+<div class="wrapper">
+  <div class="container">
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container"> 
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="true"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+          <a class="navbar-brand page-scroll" href="#main"><img src="images/logo.png" width="80" height="30" alt="iLand" /></a> </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            <li><a class="page-scroll" href="#main">Home</a></li>
+            <li><a class="page-scroll" href="#classes">About us</a></li>
+            <li><a class="page-scroll" href="#features">Our Product Range</a></li>
+            <li><a class="page-scroll" href="#price">Price List</a></li>
+            <li><a class="page-scroll" href="#pricing">New Customer Form</a></li>
+            <li><a class="page-scroll" href="#contact">Contact us</a></li>
+
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!-- /.navbar-collapse --> 
+  </div>
+  <!-- /.container-fluid -->
+  
+  <div class="main app form" id="main"><!-- Main Section-->
+    <div class="hero-section">
+      <div class="container nopadding">
+        <div class="col-md-12">
+          <div class="hero-content image-center"></div>
+          <div class="col-md-15 wow fadeInDown" data-wow-delay="0.5s"> <img class="img-responsive" src="images/iPhone-app.png" alt="App" /> </div>
+          <div class="hero-content text-center">
+            <h1 class="wow fadeInUp" data-wow-delay="0.1s">ON TAP DISTRIBUTORS</h1>
+            <p class="wow fadeInUp" data-wow-delay="0.2s"> Supplying KZN with the best On Tap Range. </p>
+            <a href="#review" class="btn btn-action wow fadeInUp; align-btn: center;" style="visibility: visible; animation-name: fadeInUp; align-btn: center;">Pricelist</a>
+            <a href="#pricing" class="btn btn-action wow fadeInUp; align-btn: center;" style="visibility: visible; animation-name: fadeInUp; align-btn: center;">New Customer Form</a> </div>
+        </div>
+      </div>
+    </div>
+    <!-- Classes Section -->
+    <div class="pitch text-center" id="classes">
+      <div class="container">
+        <div class="pitch-intro">
+          <p class="wow fadeInUp" data-wow-delay="0.2s"> Supplying KZN with the best On Tap Range. </p>
+          <h1 class="wow fadeInDown" data-wow-delay="0.2s">Bringing you all your On Tap Requirements</h1>
+          <p class="wow fadeInDown" data-wow-delay="0.2s"> We have a wide range of tasty alcoholic beverages.</p>
+        </div>
+        <div class="col-md-12">
+          <div class="col-md-4 wow fadeInDown" data-wow-delay="0.2s">
+            <div class="pitch-icon"> <i class="ion-ios-information-outline"></i> </div>
+            <div class="pitch-content">
+              <h1>About us</h1>
+              <p> We Supply Kwa-Zulu Natal with a wide Range of On Tap beverages</p>
+            </div>
+          </div>
+          <div class="col-md-4 wow fadeInDown" data-wow-delay="0.2s">
+            <div class="pitch-icon"> <i class="ion-ios-cog-outline"></i> </div>
+            <div class="pitch-content">
+              <h1>Tap Machines</h1>
+              <p> We also hire out our Portable Tap Machines on a month to month basis. </p>
+            </div>
+          </div>
+          <div class="col-md-4 wow fadeInDown" data-wow-delay="0.2s">
+            <div class="pitch-icon"> <i class="ion-ios-download-outline"></i> </div>
+            <div class="pitch-content">
+              <h1>Installation</h1>
+              <p> We will come to your venue and do a full installation of the Kegs, Machines, Regulator and Piping.
+                Installation is Quick and easy and done within a few hours. (Please Note we do not supply the Gas or Gas Bottle) </p>
+            </div>
+          </div>
+          <div class="col-md-4 wow fadeInDown" data-wow-delay="0.2s">
+            <div class="pitch-icon"> <i class="ion-cash"></i> </div>
+            <div class="pitch-content">
+              <h1>Deposits</h1>
+              <p> We do require a fully refundable Keg deposit prior to delivery. </p>
+            </div>
+          </div>
+          <div class="col-md-4 wow fadeInDown" data-wow-delay="0.2s">
+            <div class="pitch-icon"> <i class="ion-cash"></i> </div>
+            <div class="pitch-content">
+              <h1>Payments</h1>
+              <p> All Payments must be made in full via EFT prior to delivery with a proof of payment to be sent to us, alternatively we can do cash on delivery. </p>
+            </div>
+          </div>
+          <div class="col-md-4 wow fadeInDown" data-wow-delay="0.2s">
+            <div class="pitch-icon"> <i class="ion-ios-paper-outline"></i> </div>
+            <div class="pitch-content">
+              <h1>Advertising</h1>
+              <p> We can supply custom made Table and Tap Talkers. </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Features Section -->
+    <div class="app-features text-center" id="features">
+      <div class="container">
+        
+        <h1 class="wow fadeInDown" data-wow-delay="0.1s">Our Product Range</h1>
+        <p class="wow fadeInDown" data-wow-delay="0.2s"> Check out our full Range of Products below. </p>
+        <div class="col-md-4 features-left text-right">
+          <div class="col-md-12 wow fadeInDown" data-wow-delay="0.2s">
+            <div class="icon"> <i class="ion-ios-wineglass-outline"></i> </div>
+            <div class="feature-single">
+              <p>Cocktails On Tap</p>
+            </div>
+          </div>
+          <div class="col-md-12 wow fadeInDown" data-wow-delay="0.3s">
+            <div class="icon"> <i class="ion-ios-wineglass-outline"></i> </div>
+            <div class="feature-single">
+              <p>Summer Of Sour </p>
+            </div>
+          </div>
+          <div class="col-md-12 wow fadeInDown" data-wow-delay="0.4s">
+            <div class="icon"> <i class="ion-ios-wineglass-outline"></i> </div>
+            <div class="feature-single">
+              <p>Spirits On Tap</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 wow fadeInDown" data-wow-delay="0.5s"> <img class="img-responsive" src="images/iPhone-app.png" alt="App" /> </div>
+        <div class="col-md-4 features-left text-left">
+          <div class="col-md-12 wow fadeInDown" data-wow-delay="0.6s">
+            <div class="icon"> <i class="ion-ios-wineglass-outline"></i> </div>
+            <div class="feature-single">
+              <p>The Twist Range</p>
+            </div>
+          </div>
+          <div class="col-md-12 wow fadeInDown" data-wow-delay="0.7s">
+            <div class="icon"> <i class="ion-ios-wineglass-outline"></i> </div>
+            <div class="feature-single">
+              <p>The Bombs</p>
+            </div>
+          </div>
+          <div class="col-md-12 wow fadeInDown" data-wow-delay="0.8s">
+            <div class="icon"> <i class="ion-ios-wineglass-outline"></i> </div>
+            <div class="feature-single">
+              <p>Made To Order</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Split Feature1 Section -->
+    <div class="split-features">
+      <div class="col-md-6 nopadding">
+        <div class="split-image"> <img class="img-responsive wow fadeIn" src="images/Cherry bomb.png" alt="Image" /> </div>
+      </div>
+      <div class="col-md-6 nopadding">
+        <div class="split-content">
+          <h1 class="wow fadeInUp">Cherry Bomb</h1>
+          <p class="wow fadeInUp">A cherry concoction that's both sweet and sassy with a hint of mischievous vodka.</p>
+          <ul class="wow fadeInUp">
+            <li>Availible in a 30 Liter Keg.</li>
+            <li>Each 30 Liter Keg has 120 Drinks</li>
+            <li>Serving Sudgestion is 250ml and glass to be filled with Ice </li>
+            <li>Cost Per Drink R14.83</li>
+            <li>Recommended Selling Price R34</li>
+            <li>Refundable Deposit: R500</li>
+            <li>Price: R1780</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+     <!-- Split Feature2 Section -->
+    <div class="split-features2">
+      <div class="col-md-6 nopadding">
+        <div class="split-content second">
+          <h1 class="wow fadeInUp">Apple Bomb</h1>
+          <p class="wow fadeInUp">A charming green apple treat with a cheeky vodka twist.</p>
+          <ul class="wow fadeInUp">
+            <li>Availible in a 30 Liter Keg.</li>
+            <li>Each 30 Liter Keg has 120 Drinks</li>
+            <li>Serving Sudgestion is 250ml and glass to be filled with Ice </li>
+            <li>Cost Per Drink R13.17</li>
+            <li>Recommended Selling Price R34</li>
+            <li>Refundable Deposit: R500</li>
+            <li>Price: R1580</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-6 nopadding">
+        <div class="split-image"> <img class="img-responsive wow fadeIn" src="images/Apple bomb.png" alt="Image" /> </div>
+      </div>
+    </div>
+     <!-- Split Feature3 Section -->
+    <div class="split-features">
+      <div class="col-md-6 nopadding">
+        <div class="split-image"> <img class="img-responsive wow fadeIn" src="images/grape bomb.png" alt="Image" /> </div>
+      </div>
+      <div class="col-md-6 nopadding">
+        <div class="split-content">
+          <h1 class="wow fadeInUp">Grape Bomb</h1>
+          <p class="wow fadeInUp">A tantalizing grape mix with a vodka surprise that's like mischief in a glass!</p>
+          <ul class="wow fadeInUp">
+            <li>Availible in a 30 Liter Keg.</li>
+            <li>Each 30 Liter Keg has 120 Drinks</li>
+            <li>Serving Sudgestion is 250ml and glass to be filled with Ice </li>
+            <li>Cost Per Drink R13.67</li>
+            <li>Recommended Selling Price R34</li>
+            <li>Refundable Deposit: R500</li>
+            <li>Price: R1640</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+        </div>
+     </div>
+     <!-- Split Feature4 Section -->
+    <div class="split-features2">
+      <div class="col-md-6 nopadding">
+        <div class="split-content second">
+          <h1 class="wow fadeInUp">Jamaican Me Crazy</h1>
+          <p class="wow fadeInUp">A tropical cocktail with coconut, pineapple, and banana flavors!.</p>
+          <ul class="wow fadeInUp">
+            <li>Availible in a 30 Liter Keg.</li>
+            <li>Each 30 Liter Keg has 120 Drinks</li>
+            <li>Serving Sudgestion is 250ml and glass to be filled with Ice </li>
+            <li>Cost Per Drink R14.83</li>
+            <li>Recommended Selling Price R38</li>
+            <li>Refundable Deposit: R500</li>
+            <li>Price: R1780</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-6 nopadding">
+        <div class="split-image"> <img class="img-responsive wow fadeIn" src="images/Jamaican me crazy.png" alt="Image" /> </div>
+      </div>
+    </div>
+    <!-- Split Feature5 Section -->
+    <div class="split-features">
+      <div class="col-md-6 nopadding">
+        <div class="split-image"> <img class="img-responsive wow fadeIn" src="images/Punch berry.png" alt="Image" /> </div>
+      </div>
+      <div class="col-md-6 nopadding">
+        <div class="split-content">
+          <h1 class="wow fadeInUp">Punch Berry</h1>
+          <p class="wow fadeInUp">Purple berry bash with a cranberry zing!.</p>
+          <ul class="wow fadeInUp">
+            <li>Availible in a 30 Liter Keg.</li>
+            <li>Each 30 Liter Keg has 120 Drinks</li>
+            <li>Serving Sudgestion is 250ml and glass to be filled with Ice </li>
+            <li>Cost Per Drink R14.25</li>
+            <li>Recommended Selling Price R35</li>
+            <li>Refundable Deposit: R500</li>
+            <li>Price: R1710</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+     <!-- Split Feature6 Section -->
+    <div class="split-features2">
+      <div class="col-md-6 nopadding">
+        <div class="split-content second">
+          <h1 class="wow fadeInUp">Watermelon Breeze</h1>
+          <p class="wow fadeInUp">Refreshing watermelon vodka punch - the party's new BFF!.</p>
+          <ul class="wow fadeInUp">
+            <li>Availible in a 30 Liter Keg.</li>
+            <li>Each 30 Liter Keg has 120 Drinks</li>
+            <li>Serving Sudgestion is 250ml and glass to be filled with Ice </li>
+            <li>Cost Per Drink R15.83</li>
+            <li>Recommended Selling Price R37</li>
+            <li>Refundable Deposit: R500</li>
+            <li>Price: R1900</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-6 nopadding">
+        <div class="split-image"> <img class="img-responsive wow fadeIn" src="images/Watermelon breeze.png" alt="Image" /> </div>
+      </div>
+    </div>
+     <!-- Split Feature7 Section -->
+    <div class="split-features">
+      <div class="col-md-6 nopadding">
+        <div class="split-image"> <img class="img-responsive wow fadeIn" src="images/Passionfruit punch.png" alt="Image" /> </div>
+      </div>
+      <div class="col-md-6 nopadding">
+        <div class="split-content">
+          <h1 class="wow fadeInUp">Passion Punch</h1>
+          <p class="wow fadeInUp">The on-tap passion fruit vodka cocktail that packs a punch!!</p>
+          <ul class="wow fadeInUp">
+            <li>Availible in a 30 Liter Keg.</li>
+            <li>Each 30 Liter Keg has 120 Drinks</li>
+            <li>Serving Sudgestion is 250ml and glass to be filled with Ice </li>
+            <li>Cost Per Drink R14.75</li>
+            <li>Recommended Selling Price R37</li>
+            <li>Refundable Deposit: R500</li>
+            <li>Price: R1770</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+     <!-- Split Feature8 Section -->
+    <div class="split-features2">
+      <div class="col-md-6 nopadding">
+        <div class="split-content second">
+          <h1 class="wow fadeInUp">Sour Passionfruit</h1>
+          <p class="wow fadeInUp">A delightfully sour passionfruit cocktail to tantalise your tasebuds.</p>
+          <ul class="wow fadeInUp">
+            <li>Availible in a 30 Liter Keg.</li>
+            <li>Each 30 Liter Keg has 120 Drinks</li>
+            <li>Serving Sudgestion is 250ml and glass to be filled with Ice </li>
+            <li>Cost Per Drink R24.58</li>
+            <li>Recommended Selling Price R45</li>
+            <li>Refundable Deposit: R500</li>
+            <li>Price: R2950</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-6 nopadding">
+        <div class="split-image"> <img class="img-responsive wow fadeIn" src="images/sos Passionfruit.png" alt="Image" /> </div>
+      </div>
+    </div>
+     <!-- Split Feature9 Section -->
+    <div class="split-features">
+      <div class="col-md-6 nopadding">
+        <div class="split-image"> <img class="img-responsive wow fadeIn" src="images/sos Grapefruit.png" alt="Image" /> </div>
+      </div>
+      <div class="col-md-6 nopadding">
+        <div class="split-content">
+          <h1 class="wow fadeInUp">Sour Grapefruit</h1>
+          <p class="wow fadeInUp">A lip-smackingly tangy grapefruit cocktai!</p>
+          <ul class="wow fadeInUp">
+            <li>Availible in a 30 Liter Keg.</li>
+            <li>Each 30 Liter Keg has 120 Drinks</li>
+            <li>Serving Sudgestion is 250ml and glass to be filled with Ice </li>
+            <li>Cost Per Drink R24.58</li>
+            <li>Recommended Selling Price R45</li>
+            <li>Refundable Deposit: R500</li>
+            <li>Price: R2950</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+     <!-- Split Feature10 Section -->
+    <div class="split-features2">
+      <div class="col-md-6 nopadding">
+        <div class="split-content second">
+          <h1 class="wow fadeInUp">Sour Raspberry</h1>
+          <p class="wow fadeInUp">A tangy raspberry cocktail that will tickle your taste buds</p>
+          <ul class="wow fadeInUp">
+            <li>Availible in a 30 Liter Keg.</li>
+            <li>Each 30 Liter Keg has 120 Drinks</li>
+            <li>Serving Sudgestion is 250ml and glass to be filled with Ice </li>
+            <li>Cost Per Drink R24.58</li>
+            <li>Recommended Selling Price R45</li>
+            <li>Refundable Deposit: R500</li>
+            <li>Price: R2950</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-6 nopadding">
+        <div class="split-image"> <img class="img-responsive wow fadeIn" src="images/sos Raspberry.png" alt="Image" /> </div>
+      </div>
+    </div>
+     <!-- Split Feature11 Section -->
+    <div class="split-features">
+      <div class="col-md-6 nopadding">
+        <div class="split-image"> <img class="img-responsive wow fadeIn" src="images/cherry cola.png" alt="Image" /> </div>
+      </div>
+      <div class="col-md-6 nopadding">
+        <div class="split-content">
+          <h1 class="wow fadeInUp">Cherry Cola Twist</h1>
+          <p class="wow fadeInUp">A tasty blend of cherry, rum, and cola.</p>
+          <ul class="wow fadeInUp">
+            <li>Availible in a 30 Liter Keg.</li>
+            <li>Each 30 Liter Keg has 120 Drinks</li>
+            <li>Serving Sudgestion is 250ml and glass to be filled with Ice </li>
+            <li>Cost Per Drink R17.92</li>
+            <li>Recommended Selling Price R43</li>
+            <li>Refundable Deposit: R500</li>
+            <li>Price: R2150</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+     <!-- Split Feature12 Section -->
+    <div class="split-features2">
+      <div class="col-md-6 nopadding">
+        <div class="split-content second">
+          <h1 class="wow fadeInUp">Kiwi Melon Twist</h1>
+          <p class="wow fadeInUp">A delicious twist of Kiwi and watermelon.</p>
+          <ul class="wow fadeInUp">
+            <li>Availible in a 30 Liter Keg.</li>
+            <li>Each 30 Liter Keg has 120 Drinks</li>
+            <li>Serving Sudgestion is 250ml and glass to be filled with Ice </li>
+            <li>Cost Per Drink R17.92</li>
+            <li>Recommended Selling Price R43</li>
+            <li>Refundable Deposit: R500</li>
+            <li>Price: R2150</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-6 nopadding">
+        <div class="split-image"> <img class="img-responsive wow fadeIn" src="images/kiwi melon (2).png" alt="Image" /> </div>
+      </div>
+    </div>
+     <!-- Split Feature13 Section -->
+    <div class="split-features">
+      <div class="col-md-6 nopadding">
+        <div class="split-image"> <img class="img-responsive wow fadeIn" src="images/smash strawblime.png" alt="Image" /> </div>
+      </div>
+      <div class="col-md-6 nopadding">
+        <div class="split-content">
+          <h1 class="wow fadeInUp">Strawberry Lime Twist</h1>
+          <p class="wow fadeInUp">Sweet and tart, just like my heart.</p>
+          <ul class="wow fadeInUp">
+            <li>Availible in a 30 Liter Keg.</li>
+            <li>Each 30 Liter Keg has 120 Drinks</li>
+            <li>Serving Sudgestion is 250ml and glass to be filled with Ice </li>
+            <li>Cost Per Drink R18.42</li>
+            <li>Recommended Selling Price R45</li>
+            <li>Refundable Deposit: R500</li>
+            <li>Price: R2210</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+     <!-- Split Feature14 Section -->
+    <div class="split-features2">
+      <div class="col-md-6 nopadding">
+        <div class="split-content second">
+          <h1 class="wow fadeInUp">Gin & Tonic</h1>
+          <p class="wow fadeInUp">Indulge in this timeless, low-calorie classic cocktail!</p>
+          <ul class="wow fadeInUp">
+            <li>Availible in a 30 Liter Keg.</li>
+            <li>Each 30 Liter Keg has 120 Drinks</li>
+            <li>Serving Sudgestion is 250ml and glass to be filled with Ice </li>
+            <li>Cost Per Drink R13.75</li>
+            <li>Recommended Selling Price R30</li>
+            <li>Refundable Deposit: R500</li>
+            <li>Price: R1650</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-6 nopadding">
+        <div class="split-image"> <img class="img-responsive wow fadeIn" src="images/Gin & tonic.png" alt="Image" /> </div>
+      </div>
+    </div>
+     <!-- Split Feature15 Section -->
+    <div class="split-features">
+      <div class="col-md-6 nopadding">
+        <div class="split-image"> <img class="img-responsive wow fadeIn" src="images/Rum & strawberry.png" alt="Image" /> </div>
+      </div>
+      <div class="col-md-6 nopadding">
+        <div class="split-content">
+          <h1 class="wow fadeInUp">Double Rum & Strawberry</h1>
+          <p class="wow fadeInUp">Just like they serve on the island!</p>
+          <ul class="wow fadeInUp">
+            <li>Availible in a 30 Liter Keg.</li>
+            <li>Each 30 Liter Keg has 120 Drinks</li>
+            <li>Serving Sudgestion is 250ml and glass to be filled with Ice </li>
+            <li>Cost Per Drink R17.92</li>
+            <li>Recommended Selling Price R42</li>
+            <li>Refundable Deposit: R500</li>
+            <li>Price: R2150</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+     <!-- Split Feature16 Section -->
+    <div class="split-features2">
+      <div class="col-md-6 nopadding">
+        <div class="split-content second">
+          <h1 class="wow fadeInUp">Double Brandy & Coke</h1>
+          <p class="wow fadeInUp">Another classic favourite ice cold on tap.</p>
+          <ul class="wow fadeInUp">
+            <li>Availible in a 30 Liter Keg.</li>
+            <li>Each 30 Liter Keg has 120 Drinks</li>
+            <li>Serving Sudgestion is 250ml and glass to be filled with Ice </li>
+            <li>Cost Per Drink R19.58</li>
+            <li>Recommended Selling Price R45</li>
+            <li>Refundable Deposit: R500</li>
+            <li>Price: R2350</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-6 nopadding">
+        <div class="split-image"> <img class="img-responsive wow fadeIn" src="images/Brandy & coke.png" alt="Image" /> </div>
+      </div>
+    </div>
+     <!-- Split Feature17 Section -->
+    <div class="split-features">
+      <div class="col-md-6 nopadding">
+        <div class="split-image"> <img class="img-responsive wow fadeIn" src="images/spiced gold & coke.png" alt="Image" /> </div>
+      </div>
+      <div class="col-md-6 nopadding">
+        <div class="split-content">
+          <h1 class="wow fadeInUp">Double Spiced Gold & Coke</h1>
+          <p class="wow fadeInUp">Yum yum rum served as a double ice cold on tap.</p>
+          <ul class="wow fadeInUp">
+            <li>Availible in a 30 Liter Keg.</li>
+            <li>Each 30 Liter Keg has 120 Drinks</li>
+            <li>Serving Sudgestion is 250ml and glass to be filled with Ice </li>
+            <li>Cost Per Drink R19.75</li>
+            <li>Recommended Selling Price R45</li>
+            <li>Refundable Deposit: R500</li>
+            <li>Price: R2370</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+     <!-- Client Section -->
+    <div class="review-section" id="review">
+      <div class="container">
+        <div class="review-text">
+          <h1 class="wow fadeInDown" data-wow-delay="0.2s">Made to Order Drinks.</h1>
+        <div class="col-md-10 col-md-offset-1">
+          <div class="reviews owl-carousel owl-theme">
+            <div class="review-single"><img class="img-circle" src="images/blueberry bomb.png" alt="Client Testimonoal" />
+              <div class="review-text wow fadeInUp" data-wow-delay="0.2s">
+                <p>Blueberry Bomb</p>
+                <h3>Contact us for price and details.</h3>
+              </div>
+            </div>
+            <div class="review-single"><img class="img-circle" src="images/Cane & cream soda.png" alt="Client Testimonoal" />
+              <div class="review-text">
+                <p>Cane & Cream Soda</p>
+                <h3>Contact us for price and details.</h3>
+              </div>
+            </div>
+            <div class="review-single"><img class="img-circle" src="images/Cherry gin.png" alt="Client Testimonoal" />
+              <div class="review-text">
+                <p>Cherry Gin & Tonic</p>
+                <h3>Contact us for price and details.</h3>
+              </div>
+            </div>
+            <div class="review-single"><img class="img-circle" src="images/Coke On Tap.png" alt="Client Testimonoal" />
+              <div class="review-text">
+                 <p>Coke on Tap</p>
+                <h3>Contact us for price and details.</h3>
+              </div>
+            </div>
+            <div class="review-single"><img class="img-circle" src="images/Double cherry brandy & coke.png" alt="Client Testimonoal" />
+              <div class="review-text">
+                <p>Double Cherry Brandy & Coke</p>
+                <h3>Contact us for price and details.</h3>
+              </div>
+            </div>
+            <div class="review-single"><img class="img-circle" src="images/irish.png" alt="Client Testimonoal" />
+              <div class="review-text">
+                <p>Luck of The Irish</p>
+                <h3>Contact us for price and details.</h3>
+              </div>
+            </div>
+            <div class="review-single"><img class="img-circle" src="images/Mango gin.png" alt="Client Testimonoal" />
+              <div class="review-text">
+                <p>Mango Gin</p>
+                <h3>Contact us for price and details.</h3>
+              </div>
+            </div>
+            <div class="review-single"><img class="img-circle" src="images/Margarita.png" alt="Client Testimonoal" />
+              <div class="review-text">
+                <p>Margarita</p>
+                <h3>Contact us for price and details.</h3>
+              </div>
+            </div>
+            <div class="review-single"><img class="img-circle" src="images/Mojito.png" alt="Client Testimonoal" />
+              <div class="review-text">
+                 <p>Mojito</p>
+                <h3>Contact us for price and details.</h3>
+              </div>
+            </div>
+            <div class="review-single"><img class="img-circle" src="images/Peach gin.png" alt="Client Testimonoal" />
+              <div class="review-text">
+                <p>Peach Gin & Tonic</p>
+                <h3>Contact us for price and details.</h3>
+              </div>
+            </div>
+            <div class="review-single"><img class="img-circle" src="images/Pina Colada.png" alt="Client Testimonoal" />
+              <div class="review-text">
+                <p>Pina Colada</p>
+                <h3>Contact us for price and details.</h3>
+              </div>
+            </div>
+            <div class="review-single"><img class="img-circle" src="images/Pomagaranate gin.png" alt="Client Testimonoal" />
+              <div class="review-text">
+                <p>Pomagaranate Gin & Tonic</p>
+                <h3>Contact us for price and details.</h3>
+              </div>
+            </div>
+            <div class="review-single"><img class="img-circle" src="images/Strawberry gin.png" alt="Client Testimonoal" />
+              <div class="review-text">
+                <p>Strawberry Gin & Tonic</p>
+                <h3>Contact us for price and details.</h3>
+              </div>
+            </div>
+            <div class="review-single"><img class="img-circle" src="images/Vodka & coke.png" alt="Client Testimonoal" />
+              <div class="review-text">
+                <p>Vodka & Coke</p>
+                <h3>Contact us for price and details.</h3>
+              </div>
+            </div>
+            <div class="review-single"><img class="img-circle" src="images/wild cherry.png" alt="Client Testimonoal" />
+              <div class="review-text">
+                <p>Wild Cherry</p>
+                <h3>Contact us for price and details.</h3>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Client Section -->
+    <div class="review-section" id="price"></div>
+     <!-- Bold call to action Section -->
+    <div class="feature-sub">
+      <div class="container">
+        <div class="sub-inner">
+          <h1 class="wow fadeInUp">Download Our PDF Pricelist.</h1>
+          <br>
+          <br>
+          <h2 class="wow fadeInUp"> Click the button below to download our PDF Pricelist. </h2>
+          <br>
+          <br>
+          <a href="docs/On Tap Distributors price list.pdf" class="btn btn-action wow fadeInUp">Download</a></div>
+      </div>
+    </div>
+  </div>
+
+    <!-- Package Section -->
+    <div id="pricing" class="pricing-section text-center">
+      <div class="container">
+        <div class="col-md-12 col-sm-12 nopadding">
+          <div class="pricing-intro">
+            <h1 class="wow fadeInUp" data-wow-delay="0s">New Customer Form</h1>
+            <p class="wow fadeInUp" data-wow-delay="0.2s"> Please Login with your google account,<br class="hidden-xs">
+               then fill in the form and hit submit. </p>
+          <div class="fa fa-align-justify">
+            <div class="table-centre wow fadeInUp" data-wow-delay="0.4s">
+              <div class="pricing-details">
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1eGe0Ix5t5v15HKQ49DmbVwrQuMIzC6XvztCExLS2MwglZA/viewform?embedded=true" width="720" height="2950" frameborder="2" marginheight="0" marginwidth="0">Loading…</iframe>
+                </ul>                
+              </div>
+            </div>
+          </div>
+        </div>    
+      </div>
+    </div>
+    <!-- Subscribe Form -->
+  <div class="footer" id="contact"></div>
+    <div class="cta-sub no-color">
+      <div class="container">
+        <div class="cta-inner">
+          <h1 class="wow fadeInUp" data-wow-delay="0s">Contact Us</h1>
+          <br>
+          <h2 class="wow fadeInUp" data-wow-delay="0.2s"> Contact our Durban Sales Executive<br class="hidden-xs">
+            <br>
+            <div></div>
+            <a href="https://wa.me/27671429814" class="btn btn-action wow fadeInUp">WhatsApp</a> </div>
+          <div class="form wow fadeInUp" data-wow-delay="0.3s">
+          </div>
+        <br>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d432.62655181788307!2d30.914765844306814!3d-29.8350634366555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xafb61cd9be3556d3%3A0x5d0b80b87d709fca!2sOn%20Tap%20Distributors%20(OTD)!5e0!3m2!1sen!2sza!4v1747995564209!5m2!1sen!2sza" width="1080" height="720" style="border:0;" allowfullscreen="true" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Footer Section -->
+    <div class="footer" id="contact">
+      <div class="container">
+        <div class="col-md-6 contact">
+          <h1>Check out our social media</h1>
+          <p>Dont forget to like and subscribe while you are there.</p>
+        </div>
+        <div class="col-md-3 contact footer-menu">
+          <h1>Social</h1>
+          <ul>
+            <li><a href="https://www.facebook.com/ontapdistributors">Facebook</a></li>
+            <li><a href="https://www.instagram.com/ontapdistributors/">Instagram</a></li>
+            <li><a href="https://g.co/kgs/tisaJae">Google</a></li>
+            <li><a href="mailto:ontapdistributors@gmail.com">eMail</a></li>
+            <li><a href="https://wa.me/27671429814">WhatsApp</a></li>
+          </ul>
+        </div>
+        <div class="col-md-3 contact">
+          <h1>Contact Us</h1>
+          <p> Contact our sales person if you have any questions. We'll help you out. </p>
+          <a href="tel:+27671429814">Cell: +27671429814</a> </div>
+      </div>
+    </div>
+  </div>
+      <div class="footer" id="contact">
+      <div class="footer">
+        <div class="col-md-3 contact"></div>
+        <div class="app-contact img-center"></div>
+        <img class="img-circle" src="images/IRL.png" alt="IRL Logo" img-align: centre; style="display:block; img-align: centre; margin:auto;" width="64" height="64" />
+        <div class="col-md-3 contact"></div>
+        <div class="app-contact text-center wow fadeInUp" data-wow-delay="0.2s"></div>
+        <p style="color:grey; text-align: center; text-size-adjust: 11px; font-family: Arial, Helvetica, sans-serif;">Proudly Created By IRL Advertising, © 2024 On Tap Distributors</p>
+        <br>
+      </div>
+  
+  <a id="back-top" class="back-to-top page-scroll" href="#main"> <i class="ion-ios-arrow-thin-up"></i> </a> 
+  
+  <!-- Scroll To Top Ends--> 
+  
+</div>
+<!-- Main Section -->
+</div>
+<!-- Wrapper--> 
+
+<!-- Jquery and Js Plugins --> 
+<script type="text/javascript" src="js/jquery-2.1.1.js"></script> 
+<script type="text/javascript" src="js/bootstrap.min.js"></script> 
+<script type="text/javascript" src="js/plugins.js"></script> 
+<script type="text/javascript" src="js/menu.js"></script> 
+<script type="text/javascript" src="js/custom.js"></script> 
+<script src="js/jquery.subscribe.js"></script>
+</body>
+</html>
